@@ -5,7 +5,7 @@ import { Card } from '@/components/ui/Card';
 import { SOCIAL_LINKS } from '@/lib/constants';
 
 export const metadata: Metadata = {
-  title: 'תודה - חניט קורן',
+  title: 'תודה - חנית קורן',
   description: 'קיבלתי את ההודעה שלך',
 };
 
