@@ -13,7 +13,7 @@ export const Footer: React.FC = () => {
     main: [
       { href: '/', label: 'בית' },
       { href: '/services', label: 'שירותים' },
-      { href: '/portfolio', label: 'תיק עבודות' },
+      { href: '/portfolio', label: 'מאמרים מקצועיים וטיפים' },
       { href: '/about', label: 'אודות' },
       { href: '/contact', label: 'צור קשר' },
     ],
